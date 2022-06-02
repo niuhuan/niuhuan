@@ -6,3 +6,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-channel-brightgreen)](https://t.me/+i8b8BMFO6GAzOWFl) [Subscribe telegram channel](https://t.me/+i8b8BMFO6GAzOWFl)
 
+[⚡️⚡️⚡️ Generating for me ⚡️⚡️⚡️](https://afdian.net/@niuhuan)

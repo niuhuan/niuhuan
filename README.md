@@ -1,4 +1,31 @@
-![](https://github-readme-stats.vercel.app/api?username=niuhuan) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niuhuan&layout=compact&langs_count=6)
+
+
+<div style="display:flex;justify-content:space-around;flex-wrap:wrap">
+
+![](https://github-readme-stats.vercel.app/api?username=niuhuan)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niuhuan&layout=compact&langs_count=6)
+
+</div>
+
+<div style="display:flex;justify-content:space-around;flex-wrap:wrap">
+<div>
+
+[⚡️⚡️⚡️ Generating for me ⚡️⚡️⚡️](https://afdian.net/@niuhuan)
+
+<p>Appreciate me (WeChat)</p>
+
+![wx](code_wx.png)
+
+</div>
+
+<div style="display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;">
+<div>
+
+<p>My communities</p>
 
 [![Discord](https://img.shields.io/discord/973771503302770758?label=Discord)](https://discord.gg/2RNTxeRhF8) [Chat to me via discord](https://discord.gg/2RNTxeRhF8)
 
@@ -6,4 +33,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-channel-brightgreen)](https://t.me/+i8b8BMFO6GAzOWFl) [Subscribe telegram channel](https://t.me/+i8b8BMFO6GAzOWFl)
 
-[⚡️⚡️⚡️ Generating for me ⚡️⚡️⚡️](https://afdian.net/@niuhuan)
+</div>
+</div>
+
+</div>

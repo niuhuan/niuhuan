@@ -11,8 +11,6 @@
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap">
 <div>
 
-[⚡️⚡️⚡️ Generating for me ⚡️⚡️⚡️](https://afdian.net/@niuhuan)
-
 <p>Appreciate me (WeChat)</p>
 
 ![wx](code_wx.png)
@@ -25,6 +23,23 @@
   align-items: center;">
 <div>
 
+
+[⚡️⚡️⚡️ Generating for me ⚡️⚡️⚡️](https://afdian.net/@niuhuan)
+
+
+![afdian](code_afdian.png)
+
+</div>
+</div>
+
+
+</div>
+
+
+<div style="display:flex;justify-content:space-around;flex-wrap:wrap">
+
+<div>
+
 <p>My communities</p>
 
 [![Discord](https://img.shields.io/discord/973771503302770758?label=Discord)](https://discord.gg/2RNTxeRhF8) [Chat to me via discord](https://discord.gg/2RNTxeRhF8)
@@ -34,6 +49,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-channel-brightgreen)](https://t.me/+i8b8BMFO6GAzOWFl) [Subscribe telegram channel](https://t.me/+i8b8BMFO6GAzOWFl)
 
 </div>
-</div>
 
 </div>
+

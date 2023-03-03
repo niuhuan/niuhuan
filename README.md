@@ -3,5 +3,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niuhuan&layout=compact&langs_count=6)
 
-[⚡⚡⚡ Generate electricity ⚡⚡⚡](https://afdian.net/@niuhuan) 
+[⚡⚡⚡ Generate electricity ⚡⚡⚡](https://js3fnbqhwiduajl64q5cj6ep2u0iwecc.lambda-url.ap-east-1.on.aws/ ) 
 

@@ -5,5 +5,5 @@
 
 [💲💲💲 Sponsor me 💲💲💲](https://www.patreon.com/join/niuhuan)
 
-[⚡⚡⚡ Generate electricity ⚡⚡⚡](https://js3fnbqhwiduajl64q5cj6ep2u0iwecc.lambda-url.ap-east-1.on.aws/ ) 
+[⚡⚡⚡ Generate electricity ⚡⚡⚡](https://f7zrpn2fgrmrbqzkxynhsmsasi0xkrhv.lambda-url.ap-east-1.on.aws/)
 

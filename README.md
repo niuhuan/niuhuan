@@ -5,4 +5,4 @@
 
 [💲💲💲 Sponsor me 💲💲💲](https://www.patreon.com/join/niuhuan)
 
-[🌱🍃🌿 Farmville 🌿🍃🌱](https://f7zrpn2fgrmrbqzkxynhsmsasi0xkrhv.lambda-url.ap-east-1.on.aws/)
+[🌱🍃🌿 Farmville 🌿🍃🌱](https://niuhuan.github.io/crops/)
